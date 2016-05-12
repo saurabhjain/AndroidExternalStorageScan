@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StorageSearch</string>
+    <string name="scan_again">Scan again!</string>
+    <string name="extension_space">Ext based space!</string>
+    <string name="external_storage_not_read_ready">External Storage is not read ready, please make sure its mounted properly!</string>
+</resources>
